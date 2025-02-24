@@ -1,2 +1,2 @@
 # FatecRL
-Programa  qye exibe ao usuário o nome da falculdade - FATEC Rubens Lara
+Programa que exibe ao usuário o nome da falculdade - FATEC Rubens Lara
